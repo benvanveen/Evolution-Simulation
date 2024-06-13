@@ -1,1 +1,14 @@
-This project developed within Netlogo produces a predator prey simulation which represents emerging behaviours within environments, this example shows evolution, where the sheep adapt to survive against wolf attacks and the wolves evolve to better hunt sheep.
+### Evolution Simulation Within Netlogo
+
+## Introduction:
+
+## Getting Started:
+
+## using the dashboard: 
+
+## Details:
+
+## Authors: 
+Benjamin van Veen
+
+Acknowledgements: This dashboard is dependant on the UK-Covid API from https://pypi.org/project/uk-covid19/ and also news articles from https://newsapi.org/v2/top-headlines?
