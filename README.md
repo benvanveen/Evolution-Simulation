@@ -1,0 +1,1 @@
+This project developed within Netlogo produces a predator prey simulation which represents emerging behaviours within environments, this example shows evolution, where the sheep adapt to survive against wolf attacks and the wolves evolve to better hunt sheep.
